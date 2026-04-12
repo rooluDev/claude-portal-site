@@ -13,6 +13,30 @@ Claude Code(AI 코딩 도구)를 활용해 PRD·아키텍처·API 스펙·DB 스
 
 ---
 
+## 화면
+
+**메인**
+
+https://github.com/user-attachments/assets/21138aae-62e4-47bb-a64a-17a7ef3b2346
+
+**공지사항**
+
+https://github.com/user-attachments/assets/aac56700-66e7-4ff4-a015-6d5b09d1e926
+
+**자유 게시판**
+
+https://github.com/user-attachments/assets/15260cab-ce75-4bb1-9f8a-2a8f4e0e47ea
+
+**갤러리 게시판**
+
+https://github.com/user-attachments/assets/f6ddcc31-3f44-4ac2-a990-8edb34e566f7
+
+**문의 게시판**
+
+https://github.com/user-attachments/assets/8e0a2684-ed01-44c3-968b-c17fbc1bff2d
+
+---
+
 ## AI 코딩 도구 활용 방식
 
 AI 도구를 단순히 코드 자동완성에 쓰는 것이 아니라, **소프트웨어 개발 전 과정의 협업 파트너**로 활용했습니다.
