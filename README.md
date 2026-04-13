@@ -227,3 +227,11 @@ npm run dev
 | [UI Spec](docs/ui-spec.md) | 페이지 레이아웃, 컴포넌트, 버튼 표시 조건 |
 | [Error Spec](docs/error-spec.md) | 에러 코드 전체 목록, 프론트 처리 방식 |
 | [User Flow](docs/user-flow.md) | 기능별 상세 흐름, 분기 조건 |
+
+---
+
+## ERD
+<img width="908" height="817" alt="스크린샷 2026-04-12 오후 8 55 57" src="https://github.com/user-attachments/assets/03b5ec6f-d95b-45fe-9e60-374414a7553b" />
+
+
+
